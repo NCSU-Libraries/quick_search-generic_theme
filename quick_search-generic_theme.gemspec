@@ -19,8 +19,8 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'quick_search-core', '~> 0.1'
   s.add_dependency 'foundation-rails', '5.4.5'
-  s.add_dependency 'sass', '~> 3.2'
-  s.add_dependency 'font-awesome-sass', '~> 4.4'
-  s.add_dependency 'sass-rails', '~> 5.0'
+  s.add_dependency 'sass', '~> 3.7'
+  s.add_dependency 'font-awesome-sass', '~> 6.1'
+  s.add_dependency 'sass-rails', '~> 6.0'
 
 end
